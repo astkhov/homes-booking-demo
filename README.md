@@ -1,14 +1,14 @@
-# 🏠 Homes Booking Demo
+# Homes Booking Demo
 
 A demo Angular application for booking homes, using a mock backend.
 
-## 📦 Tech Stack
+## Tech Stack
 
 - [Angular](https://angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [JSON Server](https://github.com/typicode/json-server) — mock REST API
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
 
@@ -39,12 +39,12 @@ A demo Angular application for booking homes, using a mock backend.
 
    Navigate to [http://localhost:4200](http://localhost:4200)
 
-## 📁 Project Structure
+## Project Structure
 
 - `src/` — Angular source code
 - `db.json` — mock data for JSON Server
 - `angular.json`, `tsconfig.json` — configuration files
 
-## 📝 License
+## License
 
 [MIT](LICENSE)
